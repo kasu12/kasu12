@@ -18,7 +18,7 @@
 ### :woman_technologist: About Me :
 I am a Cs Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
 
-- :seedling: learning C, Networking, Ethical-Hacking, 
+- :seedling: All of my projects are available at http://benjamin.liveblog365.com/
 
 - :mailbox:How to reach me: kasu121921@gmail.com
 
