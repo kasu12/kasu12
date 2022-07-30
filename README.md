@@ -5,4 +5,26 @@
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  I'm Kasahun Welcome to my github profile
 </h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+
+---
+
+### :woman_technologist: About Me :
+I am a Cs Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
+
+- :seedling: learning C, Networking, Ethical-Hacking, 
+
+- :mailbox:How to reach me: kasu121921@gmail.com
+
+---
+
+ ---
+
+
+
